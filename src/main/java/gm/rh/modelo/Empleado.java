@@ -21,6 +21,6 @@ public class Empleado {
     Integer idEmpleado;
     String nombre;
     String departamento;
-    Double sueldo;
+    double sueldo;
 
 }
